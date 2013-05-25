@@ -24,7 +24,7 @@ Usage:
 
    import org.modelcc.runtimesubclassfinder.RunTimeSubclassFinder;
 
-   RunTimeSubclassFinder.findSubclasses(package,class).
+   RunTimeSubclassFinder.findSubclasses(String packageName,Class classObject).
 
 Check Example.java for a complete example.
 ```
