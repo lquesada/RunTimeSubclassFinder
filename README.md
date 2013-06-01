@@ -11,7 +11,7 @@ Original code from JavaWorld:
 
 - http://www.javaworld.com/javaworld/javatips/jw-javatip113.html 
 
-Also inspired by Daniel Le Berre RTSI class
+Also inspired by Daniel Le Berre RTSI class.
 
 Improvements:
 
