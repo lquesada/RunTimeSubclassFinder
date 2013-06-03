@@ -1,9 +1,7 @@
 RunTimeSubclassFinder
 ============
 
-```
-RunTimeSubclassFinder - Find all the classes implementing or inheriting
-                        from a given interface or class.
+RunTimeSubclassFinder - Find all the classes implementing or inheriting from a given interface or class.  
 Copyright (c) 2013, Luis Quesada - https://github.com/lquesada
 
 
@@ -22,9 +20,9 @@ Improvements:
 
 Usage:
 
-   import org.modelcc.runtimesubclassfinder.RunTimeSubclassFinder;
+                        import org.modelcc.runtimesubclassfinder.RunTimeSubclassFinder;
 
-   RunTimeSubclassFinder.findSubclasses(String packageName,Class classObject).
+                        RunTimeSubclassFinder.findSubclasses(String packageName,Class classObject).
 
 Check Example.java for a complete example.
-```
+
