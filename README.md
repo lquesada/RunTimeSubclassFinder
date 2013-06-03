@@ -2,7 +2,7 @@ RunTimeSubclassFinder
 ============
 
 RunTimeSubclassFinder - Find all the classes implementing or inheriting from a given interface or class.  
-Copyright (c) 2013, Luis Quesada - https://github.com/lquesada
+Copyright (c) 2010, Luis Quesada - https://github.com/lquesada
 
 
 Original code from JavaWorld:
